@@ -290,7 +290,7 @@ Date of Publication: **2020**
   month={Sep.},
 }
 ```
-### 14. [Global context guided hierarchically residual feature refinement network for defocus blur detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168421000359)
+### 14. Global context guided hierarchically residual feature refinement network for defocus blur detection[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168421000359)
 
 Published in: **Signal Processing**
 
