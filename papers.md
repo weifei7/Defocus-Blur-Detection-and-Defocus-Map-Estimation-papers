@@ -2,7 +2,7 @@
 Deep Learning based defocus blur detection and defocus map estimation papers in recent 5 years.
 
 ## Defocus Blur Detection
-##### 1. [Global context guided hierarchically residual feature refinement network for defocus blur detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168421000359)
+#### 1. [Global context guided hierarchically residual feature refinement network for defocus blur detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168421000359)
 Published in: Elsevier
 
 Published year: 2021
