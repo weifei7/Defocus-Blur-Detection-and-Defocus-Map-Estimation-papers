@@ -1,15 +1,15 @@
 # Defocus-Blur-Detection-and-Defocus-Map-Estimation-papers
 
 A list of deep learning based defocus blur detection and defocus map estimation papers.
-I would appreciate it if you have any suggestions, and please contact me (Email: fwei_mail@163.com).
+I would appreciate it if you have any suggestions, and please contact me ( [*@Email*](fwei_mail@163.com) ).
 
 ****
 ## Defocus Blur Detection
 ### 1. A Local Metric for Defocus Blur Detection Based on CNN Feature Learning. [[paper]](https://ieeexplore.ieee.org/document/8537933)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2018
+Date of Publication: **2018**
 
 ```
 @ARTICLE{8537933,
@@ -29,9 +29,9 @@ Published year: 2018
 ```
 ### 2. Defocus Blur Detection via Multi-stream Bottom-Top-Bottom Fully Convolutional Network. [[paper]](https://ieeexplore.ieee.org/document/8578423)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2018
+Date of Publication: **2018**
 
 ```
 @INPROCEEDINGS{8578423,
@@ -50,9 +50,9 @@ Published year: 2018
 ```
 ### 3. Segmentation of Defocus Blur using Local Triplicate Co-Occurrence Patterns (LTCoP). [[paper]](https://ieeexplore.ieee.org/document/9024808)
 
-Published in: 2019 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics (MACS)Processing
+Published in: **2019 13th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics (MACS)Processing**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @INPROCEEDINGS{9024808,
@@ -72,9 +72,9 @@ Published year: 2019
 ```
 ### 4. DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-Scale Deep Features. [[paper]](https://ieeexplore.ieee.org/document/8953847)
 
-Published in: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Published in: **2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @INPROCEEDINGS{8953847,
@@ -94,9 +94,9 @@ Published year: 2019
 ```
 ### 5. Defocus Blur Detection via Multi-Stream Bottom-Top-Bottom Network. [[paper]](https://ieeexplore.ieee.org/document/8673588)
 
-Published in: IEEE Transactions on Pattern Analysis and Machine Intelligence
+Published in: **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @ARTICLE{8673588,
@@ -116,9 +116,9 @@ Published year: 2020
 ```
 ### 6. Deep Direction-Context-Inspiration Network for Defocus Region Detection in Natural Images. [[paper]](https://ieeexplore.ieee.org/document/8713543)
 
-Published in: IEEE Access
+Published in: **IEEE Access**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @ARTICLE{8713543,
@@ -138,9 +138,9 @@ Published year: 2019
 ```
 ### 7. Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network. [[paper]](https://ieeexplore.ieee.org/document/8953856)
 
-Published in: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Published in: **2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @INPROCEEDINGS{8953856,
@@ -160,9 +160,9 @@ Published year: 2019
 ```
 ### 8. Accurate and Fast Blur Detection Using a Pyramid M-Shaped Deep Neural Network. [[paper]](https://ieeexplore.ieee.org/document/8755854)
 
-Published in: IEEE Access
+Published in: **IEEE Access**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @ARTICLE{8755854,
@@ -182,9 +182,9 @@ Published year: 2019
 ```
 ### 9. Defocus blur detection via edge pixel DCT feature of local patches. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168420302139)
 
-Published in: Signal Processing
+Published in: **Signal Processing**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @article{MA2020107670,
@@ -203,9 +203,9 @@ Published year: 2020
 ```
 ### 10. BR2Net: Defocus Blur Detection Via a Bidirectional Channel Attention Residual Refining Network. [[paper]](https://ieeexplore.ieee.org/document/9057632)
 
-Published in: IEEE Transactions on Multimedia
+Published in: **IEEE Transactions on Multimedia**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @ARTICLE{9057632,
@@ -225,9 +225,9 @@ Published year: 2020
 ```
 ### 11. DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Discriminative Multi-Scale Deep Features. [[paper]](https://ieeexplore.ieee.org/document/9161280)
 
-Published in: IEEE Transactions on Pattern Analysis and Machine Intelligence
+Published in: **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @ARTICLE{9161280,
@@ -247,9 +247,9 @@ Published year: 2020
 ```
 ### 12. Defocus Blur Detection by Fusing Multiscale Deep Features With Conv-LSTM. [[paper]](https://ieeexplore.ieee.org/document/9097895)
 
-Published in: IEEE Access
+Published in: **IEEE Access**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @ARTICLE{9097895,
@@ -269,9 +269,9 @@ Published year: 2020
 ```
 ### 13. MultiANet: a Multi-Attention Network for Defocus Blur Detection. [[paper]](https://ieeexplore.ieee.org/document/9287072)
 
-Published in: 2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)
+Published in: **2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @INPROCEEDINGS{9287072,
@@ -291,9 +291,9 @@ Published year: 2020
 ```
 ### 14. [Global context guided hierarchically residual feature refinement network for defocus blur detection](https://www.sciencedirect.com/science/article/abs/pii/S0165168421000359)
 
-Published in: Signal Processing
+Published in: **Signal Processing**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @article{ZHAI2021107996,
@@ -312,9 +312,9 @@ Published year: 2021
 ```
 ### 15. Defocus Blur Detection via Boosting Diversity of Deep Ensemble Networks. [[paper]](https://ieeexplore.ieee.org/document/9447919)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9447919,
@@ -334,9 +334,9 @@ Published year: 2021
 ```
 ### 16. A Novel Defocused Image Segmentation Method Based on PCNN and LBP. [[paper]](https://ieeexplore.ieee.org/document/9444355)
 
-Published in: IEEE Access
+Published in: **IEEE Access**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9444355,
@@ -356,9 +356,9 @@ Published year: 2021
 ```
 ### 17. Layer-Output Guided Complementary Attention Learning for Image Defocus Blur Detection. [[paper]](https://ieeexplore.ieee.org/document/9380693)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9380693,
@@ -378,9 +378,9 @@ Published year: 2021
 ```
 ### 18. Self-generated Defocus Blur Detection via Dual Adversarial Discriminators. [[paper]](https://ieeexplore.ieee.org/document/9578013)
 
-Published in: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Published in: **021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @INPROCEEDINGS{9578013,
@@ -400,9 +400,9 @@ Published year: 2021
 ```
 ### 19. Image-Scale-Symmetric Cooperative Network for Defocus Blur Detection. [[paper]](https://ieeexplore.ieee.org/document/9476010)
 
-Published in: IEEE Transactions on Circuits and Systems for Video Technology
+Published in: **IEEE Transactions on Circuits and Systems for Video Technology**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9476010,
@@ -424,9 +424,9 @@ Published year: 2021
 ## Defocus Map Estimation
 ### 1. Spatially variant defocus blur map estimation and deblurring from a single image. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1047320316000031)
 
-Published in: Journal of Visual Communication and Image Representation
+Published in: **Journal of Visual Communication and Image Representation**
 
-Published year: 2016
+Date of Publication: **2016**
 
 ```
 @article{ZHANG2016257,
@@ -445,9 +445,9 @@ abstract = {In this paper, we propose a single image deblurring algorithm to rem
 ```
 ### 2. Defocus Map Estimation From a Single Image Based on Two-Parameter Defocus Model. [[paper]](https://ieeexplore.ieee.org/document/7589980)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2016
+Date of Publication: **2016**
 
 ```
 @ARTICLE{7589980,
@@ -466,9 +466,9 @@ Published year: 2016
 ```
 ### 3. Defocus Map Detection Using a Single Image. [[paper]](https://ieeexplore.ieee.org/document/7881444)
 
-Published in: 2016 International Conference on Computational Science and Computational Intelligence (CSCI)
+Published in: **2016 International Conference on Computational Science and Computational Intelligence (CSCI)**
 
-Published year: 2016
+Date of Publication: **2016**
 
 ```
 @INPROCEEDINGS{7881444,
@@ -488,9 +488,9 @@ Published year: 2016
 ```
 ### 4. Estimating Defocus Blur via Rank of Local Patches. [[paper]](https://ieeexplore.ieee.org/document/8237836)
 
-Published in: 2017 IEEE International Conference on Computer Vision (ICCV)
+Published in: **2017 IEEE International Conference on Computer Vision (ICCV)**
 
-Published year: 2017
+Date of Publication: **2017**
 
 ```
 @INPROCEEDINGS{8237836,
@@ -510,9 +510,9 @@ Published year: 2017
 ```
 ### 5. A Unified Approach of Multi-scale Deep and Hand-Crafted Features for Defocus Estimation. [[paper]](https://ieeexplore.ieee.org/document/8099778)
 
-Published in: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+Published in: **2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**
 
-Published year: 2017
+Date of Publication: **2017**
 
 ```
 @INPROCEEDINGS{8099778,
@@ -532,9 +532,9 @@ Published year: 2017
 ```
 ### 6. Edge-Based Defocus Blur Estimation With Adaptive Scale Selection. [[paper]](https://ieeexplore.ieee.org/document/8101511)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2017
+Date of Publication: **2017**
 
 ```
 @ARTICLE{8101511,
@@ -554,9 +554,9 @@ Published year: 2017
 ```
 ### 7. Simultaneous blur map estimation and deblurring of a single space-variantly defocused image. [[paper]](https://ieeexplore.ieee.org/document/8077133)
 
-Published in: 2017 Twenty-third National Conference on Communications (NCC)
+Published in: **2017 Twenty-third National Conference on Communications (NCC)**
 
-Published year: 2017
+Date of Publication: **2017**
 
 ```
 @INPROCEEDINGS{8077133,
@@ -576,9 +576,9 @@ Published year: 2017
 ```
 ### 8. Defocus blur detection based on multiscale SVD fusion in gradient domain. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1047320318303742)
 
-Published in: Journal of Visual Communication and Image Representation
+Published in: **Journal of Visual Communication and Image Representation**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @article{XIAO201952,
@@ -597,9 +597,9 @@ Published year: 2019
 ```
 ### 9. Deep Defocus Map Estimation Using Domain Adaptation. [[paper]](https://ieeexplore.ieee.org/document/8953220)
 
-Published in: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Published in: **2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**
 
-Published year: 2019
+Date of Publication: **2019**
 
 ```
 @INPROCEEDINGS{8953220,
@@ -619,9 +619,9 @@ Published year: 2019
 ```
 ### 10. Defocus map estimation from a single image using improved likelihood feature and edge-based basis. [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320320302880)
 
-Published in: Pattern Recognition
+Published in: **Pattern Recognition**
 
-Published year: 2020
+Date of Publication: **2020**
 
 ```
 @article{LIU2020107485,
@@ -640,9 +640,9 @@ Published year: 2020
 ```
 ### 11. Defocus Image Deblurring Network With Defocus Map Estimation as Auxiliary Task. [[paper]](https://ieeexplore.ieee.org/document/9619959)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9619959,
@@ -662,9 +662,9 @@ Published year: 2021
 ```
 ### 12. Joint Depth and Defocus Estimation From a Single Image Using Physical Consistency. [[paper]](https://ieeexplore.ieee.org/document/9366926)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @ARTICLE{9366926,
@@ -684,9 +684,9 @@ Published year: 2021
 ```
 ### 13. Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture. [[paper]](https://ieeexplore.ieee.org/document/9413920)
 
-Published in: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Published in: **ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @INPROCEEDINGS{9413920,
@@ -706,9 +706,9 @@ Published year: 2021
 ```
 ### 14. Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image. [[paper]](https://ieeexplore.ieee.org/document/9710489)
 
-Published in: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+Published in: **2021 IEEE/CVF International Conference on Computer Vision (ICCV)**
 
-Published year: 2021
+Date of Publication: **2021**
 
 ```
 @INPROCEEDINGS{9710489,
@@ -724,9 +724,9 @@ Published year: 2021
 ```
 ### 15. Deep Multi-Scale Feature Learning for Defocus Blur Estimation. [[paper]](https://ieeexplore.ieee.org/document/9673106)
 
-Published in: IEEE Transactions on Image Processing
+Published in: **IEEE Transactions on Image Processing**
 
-Published year: 2022
+Date of Publication: **2022**
 
 ```
 @ARTICLE{9673106,
