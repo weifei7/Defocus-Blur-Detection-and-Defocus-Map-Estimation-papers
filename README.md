@@ -4,6 +4,7 @@ A list of deep learning based defocus blur detection and defocus map estimation 
 
 I would appreciate it if you have any suggestions, and please contact me ( [*@Email*](fwei_mail@163.com) ).
 
+
 ****
 ## Defocus Blur Detection
 ### 1. A Local Metric for Defocus Blur Detection Based on CNN Feature Learning. [[paper]](https://ieeexplore.ieee.org/document/8537933)
@@ -419,6 +420,65 @@ Date of Publication: **2021**
   doi={10.1109/TCSVT.2021.3095347},  
   ISSN={1558-2205},  
   month={},
+}
+```
+### 20. Defocus Blur Detection via Depth Distillation. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_44)
+
+Published in: **Computer Vision -- ECCV 2020**
+
+Date of Publication: **2020**
+
+```
+@InProceedings{10.1007/978-3-030-58601-0_44,
+ author="Cun, Xiaodongand Pun, Chi-Man",
+ editor="Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm Jan-Michael",
+ title="Defocus Blur Detection via Depth Distillation",
+ booktitle="Computer Vision -- ECCV 2020",
+ year="2020",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="747--763",
+ abstract="Defocus Blur Detection (DBD) aims to separate in-focus and out-of-focus regions from a single image pixel-wisely. This task has been paid much attention since bokeh effects are widely used in digital cameras and smartphone photography. However, identifying obscure homogeneous regions and borderline transitions in partially defocus images is still challenging. To solve these problems, we introduce depth information into DBD for the first time. When the camera parameters are fixed, we argue that the accuracy of DBD is highly related to scene depth. Hence, we consider the depth information as the approximate soft label of DBD and propose a joint learning framework inspired by knowledge distillation. In detail, we learn the defocus blur from ground truth and the depth distilled from a well-trained depth estimation network at the same time. Thus, the sharp region will provide a strong prior for depth estimation while the blur detection also gains benefits from the distilled depth. Besides, we propose a novel decoder in the fully convolutional network (FCN) as our network structure. In each level of the decoder, we design the Selective Reception Field Block (SRFB) for merging multi-scale features efficiently and reuse the side outputs as Supervision-guided Attention Block (SAB). Unlike previous methods, the proposed decoder builds reception field pyramids and emphasizes salient regions simply and efficiently. Experiments show that our approach outperforms 11 other state-of-the-art methods on two popular datasets. Our method also runs at over 30 fps on a single GPU, which is 2x faster than previous works. The code is available at: https://github.com/vinthony/depth-distillation.",
+ isbn="978-3-030-58601-0"
+}
+```
+### 21. Defocus and Motion Blur Detection with Deep Contextual Features. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13567)
+
+Published in: **Computer Graphics Forum**
+
+Date of Publication: **2018**
+
+```
+@article{article,
+ author = {Beomseok, Kim and Son, Hyeongseok and Park, Seong-Jin and Cho, Sunghyun and Lee, Seungyong},
+ year = {2018},
+ month = {10},
+ pages = {277-288},
+ title = {Defocus and Motion Blur Detection with Deep Contextual Features},
+ abstract = {We propose a novel approach for detecting two kinds of partial blur, defocus and motion blur, by training a deep convolutional neural network. Existing blur detection methods concentrate on designing low-level features, but those features have difficulty in detecting blur in homogeneous regions without enough textures or edges. To handle such regions, we propose a deep encoder-decoder network with long residual skip-connections and multi-scale reconstruction loss functions to exploit high-level contextual features as well as low-level structural features. Another difficulty in partial blur detection is that there are no available datasets with images having both defocus and motion blur together, as most existing approaches concentrate only on either defocus or motion blur. To resolve this issue, we construct a synthetic dataset that consists of complex scenes with both types of blur. Experimental results show that our approach effectively detects and classifies blur, outperforming other state-of-the-art methods. Our method can be used for various applications, such as photo editing, blur magnification, and deblurring.},
+ volume = {37},
+ journal = {Computer Graphics Forum},
+ doi = {10.1111/cgf.13567}
+}
+```
+### 22. Rethinking the Defocus Blur Detection Problem and a Real-Time Deep DBD Model. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_36)
+
+Published in: **Computer Vision -- ECCV 2020**
+
+Date of Publication: **2020**
+
+```
+@InProceedings{10.1007/978-3-030-58607-2_36,
+ author="Zhang, Ning and Yan, Junchi",
+ editor="Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm, Jan-Michael",
+ title="Rethinking the Defocus Blur Detection Problem and a Real-Time Deep DBD Model",
+ booktitle="Computer Vision -- ECCV 2020",
+ year="2020",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="617--632",
+ abstract="Defocus blur detection (DBD) is a classical low level vision task. It has recently attracted attention focusing on designing complex convolutional neural networks (CNN) which make full use of both low level features and high level semantic information. The heavy networks used in these methods lead to low processing speed, resulting difficulty in applying to real-time applications. In this work, we propose novel perspectives on the DBD problem and design convenient approach to build a real-time cost-effective DBD model. First, we observe that the semantic information does not always relate to and sometimes mislead the blur detection. We start from the essential characteristics of the DBD problem and propose a data augmentation method accordingly to inhibit the semantic information and enforce the model to learn image blur related features rather than the semantic features. A novel self-supervision training objective is proposed to enhance the model training consistency and stability. Second, by rethinking the relationship between defocus blur detection and salience detection, we identify two previously ignored but common scenarios, based on which we design a hard mining strategy to enhance the DBD model. By using the proposed techniques, our model that uses a slightly modified U-Net as backbone, improves the processing speed by more than 3 times and performs competitively against state of the art methods. Ablation study is also conducted to verify the effectiveness of each part of our proposed methods.",
+ isbn="978-3-030-58607-2"
 }
 ```
 ****
